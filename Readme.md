@@ -57,7 +57,7 @@ Krusty the Clown
   - [Testing](#testing)
   - [Contribute](#contribute)
   - [Support](#support)
-  - [License](#lcense)
+  - [License](#license)
 
 
 ### Requirements
