@@ -74,7 +74,7 @@ ruby 2.6.3 or higher
 ### Ussage
 
 ```bash
-  $ ruby app.js
+  $ ruby app.rb
 ```
 Follow instructions on the screen.
 
